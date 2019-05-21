@@ -1,11 +1,12 @@
-# Welcome to the Snippet Designer
+# Welcome to the Snippet Designer for VS2019
 
 The Snippet Designer is a plugin which enhances the Visual Studio IDE to allow a richer and more productive code snippet experience.
+
+Based on Snippet Designer by Matthew Manela [github.com/mmanela/SnippetDesigner](https://github.com/mmanela/SnippetDesigner)
 
 ## Download
 
 If or when I publish it you will be able to find it on the Visual Studio Gallery
-
 
 ## Latest Builds
 
